@@ -15,3 +15,6 @@
 
 - 框架：Vue.js
 - 開發工具：Vue CLI
+
+### Demo
+- [Demo Video](https://www.youtube.com/watch?v=nMlDklLEP_g)
